@@ -1,12 +1,126 @@
 {
-    "desc": "“我轻轻地尝一口你说的爱我，还在回味你给过的温柔。”",
+    "desc": "我轻轻地尝一口你说的爱我，还在回味你给过的温柔。",
     "bg": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbacd3?auto=format&fit=crop&w=1920&q=80",
     "songs": [
-        { "title": "晴天", "artist": "周杰伦", "cover": "https://picsum.photos/100/100?random=11", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
-        { "title": "稻香", "artist": "周杰伦", "cover": "https://picsum.photos/100/100?random=12", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
-        { "title": "小苹果", "artist": "筷子兄弟", "cover": "https://picsum.photos/100/100?random=13", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
-        { "title": "快乐崇拜", "artist": "潘玮柏", "cover": "https://picsum.photos/100/100?random=14", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
-        { "title": "爱你", "artist": "陈芳语", "cover": "https://picsum.photos/100/100?random=15", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
-        { "title": "大碗宽面", "artist": "吴亦凡", "cover": "https://picsum.photos/100/100?random=16", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }
+        {
+            "title": "火车叨位去",
+            "artist": "周杰伦",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/八度空间.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol7119028.mp3"
+        },
+        {
+            "title": "尚好的青春",
+            "artist": "孙燕姿",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/shanghaodeqingchun.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol71c4bb9222537185f.mp3"
+        },
+        {
+            "title": "身骑白马",
+            "artist": "徐佳莹",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/shenqibaima.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/2014031306232089905.mp3"
+        },
+        {
+            "title": "我想去个地方",
+            "artist": "光良",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/woxiangqugedifang.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-11.mp3"
+        },
+        {
+            "title": "外面的世界",
+            "artist": "莫文蔚",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/waimiande-shijie.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-10.mp3"
+        },
+        {
+            "title": "一个人去旅行",
+            "artist": "陈升",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/yigerenlvxing.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-09.mp3"
+        },
+        {
+            "title": "乘客",
+            "artist": "王菲",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/chengke.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-07.mp3"
+        },
+        {
+            "title": "清晨旅行",
+            "artist": "雷光夏",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/qingchenlvxing.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-06.mp3"
+        },
+        {
+            "title": "旅行的意义",
+            "artist": "陈绮贞",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/lvxingde-yiyi.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-05.mp3"
+        },
+        {
+            "title": "旅行",
+            "artist": "许巍",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/lvxing-xuwei.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-04.mp3"
+        },
+        {
+            "title": "启程",
+            "artist": "范玮琪",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/qicheng.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-03.mp3"
+        },
+        {
+            "title": "分开旅行",
+            "artist": "刘若英",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/fenkailvxing.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-02.mp3"
+        },
+        {
+            "title": "旅程",
+            "artist": "莫非定律乐团",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/lvcheng-mofeidinglv.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol02-01.mp3"
+        },
+        {
+            "title": "为了你 为了我",
+            "artist": "BEYOND",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/wweileini-weilewo.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-20.mp3"
+        },
+        {
+            "title": "你瞒我瞒",
+            "artist": "陈柏宇",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/nimanwoman.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-19.mp3"
+        },
+        {
+            "title": "月半小夜曲",
+            "artist": "陈慧娴",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/yuebanxiaoyequ.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-18.mp3"
+        },
+        {
+            "title": "一生何求",
+            "artist": "陈百强",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/yishengheqiu.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-17.mp3"
+        },
+        {
+            "title": "留言信箱",
+            "artist": "陈晓琪",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/liuyanxinxiang.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-16.mp3"
+        },
+        {
+            "title": "无赖",
+            "artist": "郑中基",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/wulai.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-15.mp3"
+        },
+        {
+            "title": "無人駕駛",
+            "artist": "彭羚",
+            "cover": "https://www.edzbe.com/wp-content/uploads/2024/08/wurengujiashi.jpg",
+            "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/vol03-14.mp3"
+        }
     ]
 }
