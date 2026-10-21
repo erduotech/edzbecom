@@ -1,1 +1,12 @@
-
+{
+    "desc": "“我轻轻地尝一口你说的爱我，还在回味你给过的温柔。”",
+    "bg": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbacd3?auto=format&fit=crop&w=1920&q=80",
+    "songs": [
+        { "title": "晴天", "artist": "周杰伦", "cover": "https://picsum.photos/100/100?random=11", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+        { "title": "稻香", "artist": "周杰伦", "cover": "https://picsum.photos/100/100?random=12", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+        { "title": "小苹果", "artist": "筷子兄弟", "cover": "https://picsum.photos/100/100?random=13", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+        { "title": "快乐崇拜", "artist": "潘玮柏", "cover": "https://picsum.photos/100/100?random=14", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+        { "title": "爱你", "artist": "陈芳语", "cover": "https://picsum.photos/100/100?random=15", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
+        { "title": "大碗宽面", "artist": "吴亦凡", "cover": "https://picsum.photos/100/100?random=16", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3" }
+    ]
+}
