@@ -1,0 +1,10 @@
+{
+    "desc": "“尽管叫我疯子，不准叫我傻子。”",
+    "bg": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1920&q=80",
+    "songs": [
+        { "title": "倔强", "artist": "五月天", "cover": "https://picsum.photos/100/100?random=21", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3" },
+        { "title": "我管你", "artist": "华晨宇", "cover": "https://picsum.photos/100/100?random=22", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" },
+        { "title": "怒放的生命", "artist": "汪峰", "cover": "https://picsum.photos/100/100?random=23", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3" },
+        { "title": "存在", "artist": "汪峰", "cover": "https://picsum.photos/100/100?random=24", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3" }
+    ]
+}

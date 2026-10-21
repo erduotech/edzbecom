@@ -1,0 +1,9 @@
+{
+    "desc": "“我也想杀死伤痛，让那恩怨有始有终。”",
+    "bg": "https://images.unsplash.com/photo-1493514789931-586c221d6a7f?auto=format&fit=crop&w=1920&q=80",
+    "songs": [
+        { "title": "平凡之路", "artist": "朴树", "cover": "https://picsum.photos/100/100?random=31", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3" },
+        { "title": "安和桥", "artist": "宋冬野", "cover": "https://picsum.photos/100/100?random=32", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+        { "title": "成都", "artist": "赵雷", "cover": "https://picsum.photos/100/100?random=33", "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3" }
+    ]
+}

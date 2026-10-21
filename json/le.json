@@ -1,0 +1,9 @@
+{
+    "desc": "“你知道当你需要个夏天，我会拼了命努力。”",
+    "bg": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1920&q=80",
+    "songs": [
+        { "title": "Weiss Heim instrumental", "artist": "Rainbow", "cover": "https://www.edzbe.com/wp-content/uploads/2014/10/1765815674214212.png", "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/2014101915323721419.mp3" },
+        { "title": "迷雾水珠 The Foggy Dew ", "artist": "Bandari", "cover": "https://www.edzbe.com/wp-content/uploads/2014/03/1273805052.jpg", "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/2014032202371757333.mp3" },
+        { "title": "送别", "artist": "王三溥", "cover": "https://www.edzbe.com/wp-content/uploads/2014/10/581074304f57c_9754932_1477473328.jpg", "audio": "https://edzbecom.oss-cn-hangzhou.aliyuncs.com/Music/Vol.37.14.mp3" }
+    ]
+}
