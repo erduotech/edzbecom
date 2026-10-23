@@ -1,5 +1,5 @@
 window.friendLinks = [
-    { name: '耳朵的主人1', icon: 'https://www.edzbe.com/favicon.ico', url: 'https://www.edzbe.com' },
+    { name: '耳朵的主人', icon: 'https://www.edzbe.com/favicon.ico', url: 'https://www.edzbe.com' },
     { name: '吾爱民谣', icon: 'https://www.wuaiminyao.com/favicon.ico', url: 'https://www.wuaiminyao.com' },
     { name: '鱼声音乐', icon: 'https://luooqi.com/favicon.ico', url: 'https://luooqi.com' },
     { name: '雅岚文艺博客', icon: '', url: '#' },
